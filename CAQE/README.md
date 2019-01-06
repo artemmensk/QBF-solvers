@@ -11,6 +11,8 @@ Attached _caqe-master.zip_ contains state of master branch on Jan 6, 2019
 - ```unzip caqe-master.zip```
 - ```cd caqe-master/```
 - ```cargo build --release```
-### How to run
+### How to run*
 - ```cd target/release```
 - ```./caqe --help```
+
+_*was tested on macOS Mojave 10.14.2_

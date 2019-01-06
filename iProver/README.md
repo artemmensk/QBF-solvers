@@ -11,5 +11,7 @@ Attached _iprover_2018_Jul_24_11h.tar.gz_ contains state on Jan 6, 2019
 - ```cd iprover_2018_Jul_24_11h/```
 - ```./configure```
 - ```make```
-### How to run
+### How to run*
 - ```./iproveropt --help```
+
+_*was tested on macOS Mojave 10.14.2_
